@@ -26,61 +26,68 @@ On distingue trois caractéristiques dans les intentions :
 Contrairement à ce qu’on pourrait penser, ces 3 élements n’ont pas besoin d’être construits ensemble, de manière cohérente. Par exemple une scène d’amour peu intéressante entre un homme (H), une femme (F) et son père (P) pourrait avoir les éléments suivants :  
 
 **L'homme :**  
-* objectif : Je veux fonder une famille avec Juliette
-* objectif vis a vis …
-  * … de F : Je veux qu’elle sache que je l’aime
-  * … de P : Je veux qu’il m’accepte
-* attitude vis a vis …
-  * … de F : Je suis amoureux
-  * … de P : Je le respecte
+
+* objectif : Je veux fonder une famille avec Juliette  
+* objectif vis a vis …  
+  * … de F : Je veux qu’elle sache que je l’aime  
+  * … de P : Je veux qu’il m’accepte  
+* attitude vis a vis …  
+  * … de F : Je suis amoureux  
+  * … de P : Je le respecte  
 
 **La femme :**   
-* objectif : Je veux fonder une famille avec l'homme
-* objectif vis à vis : 
-  * … de H : Je veux qu’il sache que je l’aime
-  * … de P : Je veux qu’il accepte H
-* attitude vis à vis …
-  * … de H : Je suis amoureuse
-  * … de P : Je le respecte
+
+* objectif : Je veux fonder une famille avec l'homme  
+* objectif vis à vis :  
+  * … de H : Je veux qu’il sache que je l’aime  
+  * … de P : Je veux qu’il accepte H  
+* attitude vis à vis …  
+  * … de H : Je suis amoureuse  
+  * … de P : Je le respecte  
 
 **Le père :**  
-* objectif : Je veux que ma fille épouse un type bien
-* objectif vis a vis : 
-  * … de H : Je veux être sur que c’est un mec bien
-  * … de F : J’aime ma fille
-* attitude vis a vis …
-  * … de H : Je suis méfiant
-  * … de F : Je la trouve magnifique
+
+* objectif : Je veux que ma fille épouse un type bien  
+* objectif vis a vis :   
+  * … de H : Je veux être sur que c’est un mec bien  
+  * … de F : J’aime ma fille  
+* attitude vis a vis …  
+  * … de H : Je suis méfiant  
+  * … de F : Je la trouve magnifique  
 
 Ces choix paraissent logiques et pourtant donneront probablement une scène pauvre et peu intéressante  car au lieu de choisir autant d’éléments qu’on nous en propose, on en choisit finalement qu’un : H et F s’aiment et veulent fonder une famille.
 
 On peut en fait construire ces elements indépendaments et les laisser réagir : 
 
 **L'homme :**  
-* objectif : Je veux fonder une famille avec Juliette
-* objectif vis a vis …
-  * … de F : Je veux qu’elle sache que je l’aime
-  * … de P : Je veux qu’il m’accepte
-* attitude vis a vis …
-  * … de F : Je suis amoureux
-  * … de P : il me fait peur
+
+* objectif : Je veux fonder une famille avec Juliette  
+* objectif vis a vis …  
+  * … de F : Je veux qu’elle sache que je l’aime  
+  * … de P : Je veux qu’il m’accepte  
+* attitude vis a vis …  
+  * … de F : Je suis amoureux  
+  * … de P : il me fait peur  
 
 **La femme :**
-* objectif : Je veux quitter ma famille tyrannique
-* objectif vis à vis : 
-  * … de H :  Je veux qu’il comprenne que je souffre dans cette famille
-  * … de P : Je veux qu’il me respecte
-* attitude vis à vis …
-  * … de H : Je suis admirative de sa liberté
-  * … de P : Il me dégoute
+
+* objectif : Je veux quitter ma famille tyrannique  
+* objectif vis à vis :  
+  * … de H :  Je veux qu’il comprenne que je souffre dans cette famille  
+  * … de P : Je veux qu’il me respecte  
+* attitude vis à vis …  
+  * … de H : Je suis admirative de sa liberté  
+  * … de P : Il me dégoute 
+
 **Le père :**   
-* objectif : Je veux que ma fille se marie avec un homme riche
-* objectif vis a vis : 
-  * … de H : Je veux estimer son patrimoine
-  * … de F : Je veux qu’elle m’obeisse
-* attitude vis a vis …
-  * … de H : Je trouve qu’il a l’air pauvre
-  * … de F : Je la trouve stupide
+
+* objectif : Je veux que ma fille se marie avec un homme riche  
+* objectif vis a vis :   
+  * … de H : Je veux estimer son patrimoine  
+  * … de F : Je veux qu’elle m’obeisse  
+* attitude vis a vis …  
+  * … de H : Je trouve qu’il a l’air pauvre  
+  * … de F : Je la trouve stupide  
 
 L’objectif et l’attitude vont de pair, ils fonctionnent ensemble et créent une dynamique complexe. Ainsi Hamlet aime Ophélie mais son attitude envers elle, s’oppose à son objectif personnel, celui de laver l’honneur de son père. Hamlet ne veut pas qu’Ophélie s’interpose à son désir de vengeance. Il lui fait donc croire qu’il ne l’aime pas pour qu’elle s’éloigne. Tous les actes des personnages peuvent être expliqués par l’intention du personnage et par les tensions qui sont créées entre l’objectif et l’attitude.
 
@@ -104,30 +111,36 @@ Le problème qui se pose c’est que même avec un script très factuel et liné
 Ecoutez le podcast pour plusieurs exemples d'intentions différentes ou essayer d'imaginer la réaction de Bob et Alice s'ils avaient les intentions suivantes. Imaginons que Bob ait toujours la même intention : 
 
 **Bob :**  
-* attitude : Alice est sympa et marrante, c’est le marrant de l’équipe
-* objectif: Lui partager la dernière comédie qu’il a vu au cinéma
+
+* attitude : Alice est sympa et marrante, c’est le marrant de l’équipe  
+* objectif: Lui partager la dernière comédie qu’il a vu au cinéma  
 
 Mais qu'Alice aborde la discussion avec les intentions et objectif suivantes : 
 
 **Alice :**  
-* attitude: Bob est un imbécile qui a fait une énorme erreur comme d’habitude
-* objectif: faire en sorte que Bob corrige son erreur pour qu’elle ne soit pas pénalisée.
+
+* attitude: Bob est un imbécile qui a fait une énorme erreur comme d’habitude  
+* objectif: faire en sorte que Bob corrige son erreur pour qu’elle ne soit pas pénalisée.  
  
 **Alice :**  
-* attitude: Bob a fait cette erreur parce que j’ai oublié de lui donner une information
-* objectif: faire en sorte que Bob corrige son erreur.
+
+* attitude: Bob a fait cette erreur parce que j’ai oublié de lui donner une information  
+* objectif: faire en sorte que Bob corrige son erreur.  
 
 **Alice :**  
-* attitude: trouve bob séduisant
-* objectif: essaie de séduire bob
+
+* attitude: trouve bob séduisant  
+* objectif: essaie de séduire bob  
 
 **Alice :**  
-* attitude: trouve que bob sent mauvais
-* objectif: essaie de finir l’entretien au plus vite
+
+* attitude: trouve que bob sent mauvais  
+* objectif: essaie de finir l’entretien au plus vite  
 
 **Alice :** 
-* intention: Le père de Bob est mort la semaine dernière et ça l’a beaucoup affecté.
-* objectif: lui montrer qu'elle est là si besoin
+
+* intention: Le père de Bob est mort la semaine dernière et ça l’a beaucoup affecté.  
+* objectif: lui montrer qu'elle est là si besoin  
 
 Selon les cas, l'attitude d'Alice peut être contre-productive même si elle part d'une bonne intention. Il est donc important de réfléchir aux intentions et objectif que l'on a avant une discussion professionnelle et le cas échéant les modifier pour améliorer la qualité de l'échange.
 
