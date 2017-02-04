@@ -9,12 +9,12 @@ categories: episodes
 
 # Introduction
 
-Comment lire du théâtre ? Certains puristes vous diront qu’on ne lit pas le théâtre, que le théâtre doit être vu. La pièce doit être considérée dans sa globalité avec le texte, la mise en scène et le travail d'interprétations des acteurs.
+*Raphael -* Comment lire du théâtre ? Certains puristes vous diront qu’on ne lit pas le théâtre, que le théâtre doit être vu. La pièce doit être considérée dans sa globalité avec le texte, la mise en scène et le travail d'interprétations des acteurs.
 
 Pour ma part j’adore lire du théâtre. Mais il faut reconnaître que l’interprétation du texte peut changer sa perception, voire même son sens en fonction de l’intention que lui donne l’acteur. 
 Les intentions au théâtre c’est ce qui n’est pas écrit dans une pièce par l’auteur mais qui est souvent implicite. C’est ce que l’auteur dissimule au public au début de la pièce pour mieux les dévoiler à la fin. Les intentions sont comme une petite voix dans la tête d’un personnage qui l’incite à se comporter d’une certaine façon. 
 
-J’ai commencé le théâtre après plusieurs années d’improvisation théâtrale. Alors que j’avais l’habitude d’être en possession de tout : te texte, le jeu, la mise en scène, etc. Je me retrouvais avec un texte figé, qui ne pouvait plus bouger. Cette situation m’a donné une impression d’emprisonnement, où est la création si l’on ne peut que jouer ce texte? Pourtant, bien des années plus tard, j’ai découvert qu’il restait une place immense : l’intention qui amène à dire ce texte, l’intention avec laquelle on dit ce texte, l’intention qui nous pousse à être là pour dire ce texte..
+*Nicolas -* J’ai commencé le théâtre après plusieurs années d’improvisation théâtrale. Alors que j’avais l’habitude d’être en possession de tout : te texte, le jeu, la mise en scène, etc. Je me retrouvais avec un texte figé, qui ne pouvait plus bouger. Cette situation m’a donné une impression d’emprisonnement, où est la création si l’on ne peut que jouer ce texte? Pourtant, bien des années plus tard, j’ai découvert qu’il restait une place immense : l’intention qui amène à dire ce texte, l’intention avec laquelle on dit ce texte, l’intention qui nous pousse à être là pour dire ce texte..
 
 # Les 3 caractéristiques des intentions
 
