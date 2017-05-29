@@ -18,8 +18,8 @@ email: enattendantlundi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   "En attendant lundi" est un podcast qui propose de découvrir comment appliquer des méthodes 
   provennant du monde du théâtre en entreprise
-baseurl: "/web" # the subpath of your site, e.g. /blog
-url: "https://enattendantlundi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://enattendantlundi.github.io/web" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: enattendantlundi
 github_username:  BCoulange
 disqus:
