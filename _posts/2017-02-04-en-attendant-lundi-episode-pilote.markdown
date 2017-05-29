@@ -10,8 +10,6 @@ categories: episodes
 
 # Introduction
 
-test
-
 *Raphael -* Comment lire du théâtre ? Certains puristes vous diront qu’on ne lit pas le théâtre, que le théâtre doit être vu. La pièce doit être considérée dans sa globalité avec le texte, la mise en scène et le travail d'interprétations des acteurs.
 
 Pour ma part j’adore lire du théâtre. Mais il faut reconnaître que l’interprétation du texte peut changer sa perception, voire même son sens en fonction de l’intention que lui donne l’acteur. 
