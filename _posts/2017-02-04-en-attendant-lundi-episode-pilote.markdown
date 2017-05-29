@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  "En attendant lundi - Episode Pilote"
 date:   2017-02-03 19:05:07 +0100
 categories: episodes
