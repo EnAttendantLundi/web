@@ -159,6 +159,10 @@ La quote de cet épisode provient du livre "Audition" de  Michael Shurtleff qu'o
 > “every scene is a love scene. The actor should ask the question, "Where is the love?" of every scene, or he won't find the deepest emotional content” - Michael Shurtleff
 
 
+<a href="https://podcloud.fr/podcast/en-attendant-lundi?592c2310a9b4975bc9003d97" target="_blank">Retrouvez En Attendant Lundi sur podCloud</a>
+
+
+
 
 
 
